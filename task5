@@ -1,0 +1,14 @@
+public class Main {
+    public static void test(int a) {
+        if (a >= 0){
+            System.out.println("Positive");
+        }
+        else{
+            System.out.println("Negative");
+        }
+    }
+     public static void main(String[] args) {
+        test(7);
+        test(-25);
+     }
+}

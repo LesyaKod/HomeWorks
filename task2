@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        byte b = 123;
+        short s = 2404;
+        int i = 200000;
+        long l = 15467L;
+        float f = 123.0f;
+        double d = 15.72774;
+        boolean bool = true;
+        char c = '\u0004';
+    }
+}
